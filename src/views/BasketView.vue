@@ -1,10 +1,7 @@
 <template>
 
 <div class="basket">
-    <img src="https://www.pngitem.com/pimgs/m/536-5362520_stiker-fuck-you-hd-png-download.png" alt="">
-    <div class="text">
-        TimurZhan
-    </div>
+    Basket pages
 </div>
 
 </template>
