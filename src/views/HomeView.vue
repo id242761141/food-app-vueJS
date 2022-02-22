@@ -36,7 +36,7 @@
       <div :key="index" class="top-products" v-for="(items, index) in 40">
         <div class="top-products-img">
           <img
-            src="https://www.pngplay.com/wp-content/uploads/6/Berry-Juice-PNG.png"
+            src="https://wkau.kz/wp-content/uploads/2022/02/berry-juice-png.png"
             alt=""
           />
         </div>
