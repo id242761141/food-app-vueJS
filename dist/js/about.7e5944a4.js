@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfood_app"]=self["webpackChunkfood_app"]||[]).push([[443],{3258:function(n,u,t){t.r(u),t.d(u,{default:function(){return d}});var o=t(3396);const r={class:"about"},a=(0,o._)("h1",null,"About",-1),e=[a];function c(n,u){return(0,o.wg)(),(0,o.iD)("div",r,e)}var s=t(89);const f={},p=(0,s.Z)(f,[["render",c]]);var d=p}}]);
+//# sourceMappingURL=about.7e5944a4.js.map
