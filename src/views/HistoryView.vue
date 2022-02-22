@@ -7,5 +7,7 @@
 </template>
 
 <style lang="less">
-
+.history{
+    content: "";
+}
 </style>
